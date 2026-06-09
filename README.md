@@ -1,2 +1,3 @@
 # bash-scripts
-Autonomous differential-drive rover — ROS2 Nav2, SLAM, custom Python action clients
+
+ROS2 workspace automation scripts and Linux utilities — written by Suwarna M
